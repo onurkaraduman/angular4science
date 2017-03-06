@@ -10,6 +10,9 @@ export const BUTTONS: Button[] = [
   {id: 1, operationName: '7', displayedText: '7', enabled: true, css: "seven"},
   {id: 1, operationName: '8', displayedText: '8', enabled: true, css: "eight"},
   {id: 1, operationName: '+', displayedText: '+', enabled: true, css: "plus"},
+  {id: 1, operationName: '-', displayedText: '+', enabled: true, css: "minus"},
+  {id: 1, operationName: '*', displayedText: '+', enabled: true, css: "ASTERISK"},
+  {id: 1, operationName: '/', displayedText: '+', enabled: true, css: "DIVISION_SLASH"},
   {id: 1, operationName: '=', displayedText: '=', enabled: true, css: "equal"}
 ];
 
