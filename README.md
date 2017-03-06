@@ -1,9 +1,27 @@
 # AngularCalculator
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.21.
+The project is a calculator project with multiple operation. Multiple operation in one line can be evaluated.
+You can find following implementation in the project:
+* Lexical Analyzer
+* Syntax-Symantic Analyzer
+* Expression Tree
+
 
 ## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+1. Download the dependencies:
+`npm install`
+
+2. Run this command for building and deployment:
+`ng serve`
+
+3. Navigate to `http://localhost:4200/`.
+
+Note: The app will automatically reload if you change any of the source files.
+
+## Github Page
+
+To test the calculator you can visit the following github page:
+https://onurkaraduman.github.io/angular4science/
 
 ## Code scaffolding
 
@@ -29,3 +47,5 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
